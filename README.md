@@ -1,6 +1,6 @@
-[MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)
-                                                                        # Hi 👋, I'm Jai Gaikwad
-                                                               A passionate AI research scientist from India
+[![MasterHead](https://i.pinimg.com/736x/7c/43/3e/7c433e7273948204d875ee5cdcf218ff.jpg)]
+<h1 align="center">Hi 👋, I'm Jai Gaikwad</h1>
+<h3 align="center">A passionate AI research scientist from India</h3>
 
 ### 🚀 About Me:
 - 🛠️ I'm currently working on **Personal Projects**
